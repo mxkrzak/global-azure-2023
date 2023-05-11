@@ -1,3 +1,4 @@
+#Test
 # TEST
 # Dockerfile for content-api
 # This is the base image that can be used
