@@ -6,8 +6,8 @@ name: docker-publish-1
 # documentation.
 
 on:
-  #push:
-  #  branches: [ main ]
+  push:
+    branches: [ main ]
   #  # Publish semver tags as releases.
   #  tags: [ 'v*.*.*' ]
   #pull_request:
